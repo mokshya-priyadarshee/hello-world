@@ -1,3 +1,2 @@
-# hello-world
-This is just a test repository
-Great to do
+This is just a temporary repository 
+Please kindly ignore this repo
